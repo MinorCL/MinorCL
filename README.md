@@ -35,7 +35,7 @@ Estudiante de Ingeniería en Sistemas de Información — Universidad Nacional d
 | Proyecto | Descripción |
 |---|---|
 | [Proyecto2-P1](https://github.com/MinorCL/Proyecto2-P1) | Sistema de reservas de vuelos orientado a objetos, con listas enlazadas propias (patrón Nodo/Container) y arquitectura MVC. |
-| [Progra2_P1](https://github.com/MinorCL/Progra1_P2) | Sistema de gestión de exámenes: banco de preguntas, control de reutilización y arreglos dinámicos implementados manualmente. |
+| [Progra1_P1](https://github.com/MinorCL/Progra1_P2) | Sistema de gestión de exámenes: banco de preguntas, control de reutilización y arreglos dinámicos implementados manualmente. |
 | [SistemaGestionNomina_PrograII](https://github.com/MinorCL/SistemaGestionNomina_PrograII) | Cálculo de planillas aplicando los patrones Builder, Factory, Adapter y Composite. |
 | [SistemaBancario_PrograII](https://github.com/MinorCL/SistemaBancario_PrograII) | Gestión de cuentas bancarias y préstamos con persistencia binaria propia (sin librerías externas de serialización). |
 
