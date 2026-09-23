@@ -13,7 +13,7 @@ Estudiante de Ingeniería en Sistemas de Información — Universidad Nacional d
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
 </p>
 
-Busco una **pasantía** donde pueda seguir creciendo como desarrollador. Aquí tienes un resumen de mis proyectos organizados por tecnología.
+
 
 ---
 
