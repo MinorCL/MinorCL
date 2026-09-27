@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Minor Castillo Loria 👋</h1>
+<h1 align="center">Minor Castillo Loria</h1>
 
 <p align="center">
 Estudiante de Ingeniería en Sistemas de Información — Universidad Nacional de Costa Rica (UNA)
