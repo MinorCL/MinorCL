@@ -22,6 +22,7 @@ Estudiante de Ingeniería en Sistemas de Información — Universidad Nacional d
 | Proyecto | Descripción |
 |---|---|
 | [SistemaReservaRecursos](https://github.com/MinorCL/SistemaReservaRecursos) | Sistema de reserva de recursos en Java 17 + Swing (MVC), persistencia en XML, reportes PDF, extracción de datos con IA (Gemini) y pruebas JUnit 5 (unitarias + integración). |
+| [SistemaReservaRecursos-P2](https://github.com/MinorCL/SistemaReservaRecursos-P2) | Segunda entrega del sistema de reserva de recursos en Java + Swing (MVC). *(Ajustá esta descripción con lo nuevo que agregó el P2.)* |
 
 ## 🐍 Python
 
